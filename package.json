@@ -1,5 +1,6 @@
 {
   "name": "livefyre-collectionid-creator",
+  "main": "./app.js",
   "description":"quick way to create livefyre collection ids",
   "keywords":["livefyre","colllectionid"],
   "version": "0.1.2",
@@ -7,7 +8,7 @@
   , "email" : "yaw.etse@gmail.com"
   , "url" : "http://about.me/yawjosephetse"
   },
-  "homepage": "https://github.com/yawetse/livefyre-streamhub-create-collection",
+  "homepage": "https://github.com/Interscope/livefyre-streamhub-create-collection",
   "scripts": {
     "start": "node app.js"
   },
@@ -18,6 +19,6 @@
   "engines": {"node": ">= 0.8.0"},
   "repository" :
   { "type" : "git",
-    "url" : "http://github.com/yawetse/livefyre-streamhub-create-collection.git"
+    "url" : "https://github.com/Interscope/livefyre-streamhub-create-collection.git"
   }
 }
