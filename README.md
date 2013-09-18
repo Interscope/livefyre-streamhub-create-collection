@@ -5,7 +5,7 @@ quick way to create livefyre collection ids
 
 ## Install
 
-    $ npm install livefyre-collectionid-creator
+    $ git clone https://github.com/Interscope/livefyre-streamhub-create-collection.git
 
 ## Usage
 
